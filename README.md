@@ -1,1 +1,1 @@
-# -Mastering-JavaScript-Backend-Journey
+# Mastering-JavaScript-Backend-Journey
